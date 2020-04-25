@@ -1,0 +1,9 @@
+name: TempRank
+main: NgLamVN\TempRank\TempRank
+version: 0.1.lpk
+api: 3.11.0
+permissions:
+  tr.setrank:
+    default: op
+  tr.removerank:
+    default: op
